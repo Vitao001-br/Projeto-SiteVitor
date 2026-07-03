@@ -1,0 +1,42 @@
+body {
+    background-color: #1e3a8a;
+    color: white;
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    text-align: center;
+}
+
+main {
+    max-width: 800px;
+    margin: auto;
+}
+
+nav ul {
+    list-style: none;
+    padding: 0;
+}
+
+nav ul li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+a:hover {
+    color: yellow;
+}
+
+section {
+    margin: 30px 0;
+}
+
+h1 {
+    font-size: 32px;
+}
+header {
+    padding: 20px;
+}
